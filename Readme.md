@@ -1,4 +1,4 @@
-# Interesting Abscractions and System Designs.
+# Interesting Abstractions and System Designs.
 
 
 
