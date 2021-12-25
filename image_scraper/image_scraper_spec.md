@@ -11,4 +11,3 @@
 
 ### Fun fact in our image service we have a lot of daily active users. 6 Sextillion data bytes are queried everyday so this system is more read heavy than write heavy.
 
-
